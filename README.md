@@ -2,6 +2,7 @@
 This is a final project for robot visualization and data processing using the Marvelminds GPS system for the Applications Programming for Engineers Course at the Univeristy of Texas at Austin in the Spring of 2019.
 
 ![Picture1](https://user-images.githubusercontent.com/47263802/57459649-3df9e380-7239-11e9-9020-c5372ddcf02a.png)
+
 https://marvelmind.com/product/starter-set-hw-v4-9-imu/
 
 Objective: 
@@ -26,10 +27,14 @@ ___
      * Official ROS wiki: http://wiki.ros.org/ROS/Introduction  
      * ROS Tutorial: http://wiki.ros.org/ROS/Tutorials  
    
+   ![ros download](https://user-images.githubusercontent.com/47263802/57472704-c1283300-7253-11e9-9e4e-132721617954.png)
+   
    2. Read MarvelMind Documentation and set up Dashboard  
    
      * Package set-up: https://marvelmind.com/pics/marvelmind_ros_v2016_09_11a.pdf  
      * MarelMinds Manual: https://marvelmind.com/pics/marvelmind_navigation_system_manual.pdf  
+     
+  ![Capture](https://user-images.githubusercontent.com/47263802/57472770-ec128700-7253-11e9-9f5c-9e106f222c5c.JPG)
    
    3. Generate angle calculations for robot pose
    
