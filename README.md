@@ -31,7 +31,7 @@ ___
      * Official ROS wiki: http://wiki.ros.org/ROS/Introduction  
      * ROS Tutorial: http://wiki.ros.org/ROS/Tutorials  
    
-   ![ros download](https://user-images.githubusercontent.com/47263802/57472704-c1283300-7253-11e9-9e4e-132721617954.png)
+   ![ros](https://user-images.githubusercontent.com/47263802/57479779-d73def80-7263-11e9-8976-2d6633df33f1.JPG)
    
    2. Read MarvelMind Documentation and set up Dashboard  
    
@@ -42,7 +42,7 @@ ___
    
    3. Generate angle calculations for robot pose  
    
-   ![tan](https://user-images.githubusercontent.com/47263802/57461204-35ef7300-723c-11e9-9fc0-ceda7af24178.png)
+   ![tan pos](https://user-images.githubusercontent.com/47263802/57479872-110ef600-7264-11e9-937f-730d7629f315.JPG)
    
    Source: https://www.mathopenref.com/triggraphtan.html  
    
@@ -69,6 +69,6 @@ ___
 
 ![calculator ros flow](https://user-images.githubusercontent.com/47263802/57477096-8cb97480-725d-11e9-9b83-191e88fe0827.JPG)
 
-   A diagram of our project contribution to the world is provided. We met our project requirements and hope that it may be useful to other scholars studying indoor gps localization and robotic positioning.  
+   A diagram of our project contribution to the ROS world is provided. We met our project requirements and hope that it may be useful to other scholars studying indoor gps localization and robotic positioning.  
    
    We learned a great deal about ROS and the MarvelMind indoor navigation system!  
