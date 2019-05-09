@@ -23,13 +23,13 @@ ___
 
    1. Follow ROS tutorials for ROS Kinetic Kame and set-up workspace:  
    
-   Official ROS wiki: http://wiki.ros.org/ROS/Introduction  
-   ROS Tutorial: http://wiki.ros.org/ROS/Tutorials  
+     * Official ROS wiki: http://wiki.ros.org/ROS/Introduction  
+     * ROS Tutorial: http://wiki.ros.org/ROS/Tutorials  
    
    2. Read MarvelMind Documentation and set up Dashboard  
    
-   Package set-up: https://marvelmind.com/pics/marvelmind_ros_v2016_09_11a.pdf  
-   MarelMinds Manual: https://marvelmind.com/pics/marvelmind_navigation_system_manual.pdf  
+     * Package set-up: https://marvelmind.com/pics/marvelmind_ros_v2016_09_11a.pdf  
+     * MarelMinds Manual: https://marvelmind.com/pics/marvelmind_navigation_system_manual.pdf  
    
    3. Generate angle calculations for robot pose
    
