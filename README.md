@@ -47,7 +47,13 @@ ___
 ___
 ## Project Results
 
+### Code Structure
+
+   All the code written and contributed to for this project was written in Python. The starting files for the MarvelMind Indoor GPS System includes files in C++ but since ROS is code agnostic, our pose calculator runs with the device set-up files.
+
 ![code structure](https://user-images.githubusercontent.com/47263802/57475210-78737880-7259-11e9-998a-81954acd23d4.JPG)
 
+
+### Our Contribution to the World
 
 ![calculator ros flow](https://user-images.githubusercontent.com/47263802/57477096-8cb97480-725d-11e9-9b83-191e88fe0827.JPG)
