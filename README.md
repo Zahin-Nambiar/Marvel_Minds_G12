@@ -1,4 +1,4 @@
-# Marvel_Minds_G12
+# Team MarvelMinds Final Project
 This is a final project for robot visualization and data processing using the Marvelminds GPS system for the Applications Programming for Engineers Course at the Univeristy of Texas at Austin in the Spring of 2019.
 
 ![Picture1](https://user-images.githubusercontent.com/47263802/57459649-3df9e380-7239-11e9-9020-c5372ddcf02a.png)
@@ -21,6 +21,6 @@ ___
 
 # Getting Started
 
-Follow ROS tutorials for ROS Kinetic Kame and set-up workspace
-Official ROS wiki: http://wiki.ros.org/ROS/Introduction
-ROS Tutorial: http://wiki.ros.org/ROS/Tutorials
+   Follow ROS tutorials for ROS Kinetic Kame and set-up workspace:  
+   Official ROS wiki: http://wiki.ros.org/ROS/Introduction  
+   ROS Tutorial: http://wiki.ros.org/ROS/Tutorials  
