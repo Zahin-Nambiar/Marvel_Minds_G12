@@ -3,7 +3,7 @@ This is a final project for robot visualization and data processing using the Ma
 
 ![Picture1](https://user-images.githubusercontent.com/47263802/57459649-3df9e380-7239-11e9-9020-c5372ddcf02a.png)
 
-https://marvelmind.com/product/starter-set-hw-v4-9-imu/
+Source: https://marvelmind.com/product/starter-set-hw-v4-9-imu/
 
 Objective: 
 Get the marvelmind beacons to communicate with the router. Use data from beacons to publish relevant data for path planning corrections through kalman filters. Even though one of the Hedgehog beacons has an IMU, the data is very noisy. Developing code to calculate pose will reduce error for state analysis.
@@ -40,7 +40,7 @@ ___
    
    ![tan](https://user-images.githubusercontent.com/47263802/57461204-35ef7300-723c-11e9-9fc0-ceda7af24178.png)
    
-   https://www.mathopenref.com/triggraphtan.html  
+   Source: https://www.mathopenref.com/triggraphtan.html  
    
 ___
 # Project Results
