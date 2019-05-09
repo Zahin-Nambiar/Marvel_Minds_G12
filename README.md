@@ -16,3 +16,11 @@ Project Uniqueness: Very little prior research on holonomic drive controls.
 
 
 ![roboto](https://user-images.githubusercontent.com/47263802/57458995-f58df600-7237-11e9-9c7c-b2e9efba145b.JPG)
+
+___
+
+# Getting Started
+
+Follow ROS tutorials for ROS Kinetic Kame and set-up workspace
+Official ROS wiki: http://wiki.ros.org/ROS/Introduction
+ROS Tutorial: http://wiki.ros.org/ROS/Tutorials
