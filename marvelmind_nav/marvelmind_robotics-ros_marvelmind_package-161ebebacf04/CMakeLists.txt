@@ -162,8 +162,9 @@ target_link_libraries(hedge_rcv_bin1
 )
 #####################
 
-
-add_dependencies(subscriber_test marvelmind_nav_generate_messages_cpp)
+#Changed the line below to remove the subscriber_test
+add_dependencies(marvelmind_nav_generate_messages_cpp marvelmind_nav_generate_messages_cpp)
+#add_dependencies(subscriber_test marvelmind_nav_generate_messages_cpp)
 
 
 
