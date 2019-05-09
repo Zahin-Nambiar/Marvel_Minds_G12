@@ -6,7 +6,7 @@ This is a final project for robot visualization and data processing using the Ma
 Objective: 
 Get the marvelmind beacons to communicate with the router. Use data from beacons to publish relevant data for path planning corrections through kalman filters. Even though one of the Hedgehog beacons has an IMU, the data is very noisy. Developing code to calculate pose will reduce error for state analysis.
 
-Packages:  rospy, math, time, ros marvelmind package.
+Packages:  rospy, math, ros marvelmind package.
 
 ![ROS Package Visualization](https://user-images.githubusercontent.com/47263802/57459469-ed828600-7238-11e9-8958-a1e0069008f1.JPG)
 
