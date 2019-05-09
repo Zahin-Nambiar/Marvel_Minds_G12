@@ -26,7 +26,7 @@ ___
 
 ## Getting Started and Method
 
-   1. Follow ROS tutorials for ROS Kinetic Kame and set-up workspace:  
+   **1. Follow ROS tutorials for ROS Kinetic Kame and set-up workspace:**  
    
      * Official ROS wiki: http://wiki.ros.org/ROS/Introduction  
      * ROS Tutorial: http://wiki.ros.org/ROS/Tutorials  
@@ -37,7 +37,7 @@ ___
    
    There are currently two versions of ROS available for download. We decided to use the Kinetic Kame version of ROS for this project.
    
-   2. Read MarvelMind Documentation and set up Dashboard  
+   **2. Read MarvelMind Documentation and set up Dashboard**  
    
      * Package set-up: https://marvelmind.com/pics/marvelmind_ros_v2016_09_11a.pdf  
      * MarelMinds Manual: https://marvelmind.com/pics/marvelmind_navigation_system_manual.pdf  
@@ -52,7 +52,7 @@ The MarvelMind Indoor GPS system already as a visualization software called Dash
   
   Dashboard was used to connect the modem to a remote laptop while the two mobile hedgehog beacons were attached to a ROS system.
    
-   3. Generate angle calculations for robot pose  
+   **3. Generate angle calculations for robot pose**  
    
    The pose and position calculator were completed by visuzalizing the tangent relationship of a circle and then applying that to the change in position of the two beacons relative to each other.
    
