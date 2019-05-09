@@ -12,7 +12,7 @@ Get the marvelmind beacons to communicate with the router. Use data from beacons
 
 **Packages:**  rospy, math, ros marvelmind package.
 
-![ROS Package Visualization](https://user-images.githubusercontent.com/47263802/57459469-ed828600-7238-11e9-8958-a1e0069008f1.JPG)
+![ros node correction](https://user-images.githubusercontent.com/47263802/57483076-c1ccc380-726b-11e9-9d0c-ab03b544e194.JPG)
 
 **The Deliverables:** Our computer receives the location data and we can successfully calculate the pose. Pose will be published to a rostopic for another program to access. 
 
@@ -83,7 +83,7 @@ ___
 
    Overall, the project scope was to create an additional node, therefore additional functionality for the MarvelMinds Indoor GPS system and provide data that would be useful for a robotic control system.  
 
-![calculator ros flow](https://user-images.githubusercontent.com/47263802/57477096-8cb97480-725d-11e9-9b83-191e88fe0827.JPG)
+![ros new](https://user-images.githubusercontent.com/47263802/57483088-c72a0e00-726b-11e9-8c2c-d36ebc6baf8f.JPG)
 
    A diagram of our project contribution to the ROS world is provided. We met our project requirements and hope that it may be useful to other scholars studying indoor gps localization and robotic positioning.  
    
