@@ -30,21 +30,37 @@ ___
    
      * Official ROS wiki: http://wiki.ros.org/ROS/Introduction  
      * ROS Tutorial: http://wiki.ros.org/ROS/Tutorials  
+     
+   A large part of this project was understanding and using ROS. Understanding how ROS is code agnostic with its build infrasctructure and the method of data transfer used to accomplish this. Understanding the concepts of nodes and topics was critical as well as following the ROS tutorial to set up the appropiate environment for this project.  
    
-   ![ros](https://user-images.githubusercontent.com/47263802/57479779-d73def80-7263-11e9-8976-2d6633df33f1.JPG)
+   ![ros](https://user-images.githubusercontent.com/47263802/57479779-d73def80-7263-11e9-8976-2d6633df33f1.JPG)  
+   
+   There are currently two versions of ROS available for download. We decided to use the Kinetic Kame version of ROS for this project.
    
    2. Read MarvelMind Documentation and set up Dashboard  
    
      * Package set-up: https://marvelmind.com/pics/marvelmind_ros_v2016_09_11a.pdf  
      * MarelMinds Manual: https://marvelmind.com/pics/marvelmind_navigation_system_manual.pdf  
      
+   Since this project was hardware specific to the MarvelMind Indoor GPS system, reading through the hardware documentation was important in order to receive data from the beacons. In our set, there are four stationary beacons and two mobile beacons. The four beacons are to be set up around a large area and the two beacons on opposite ends of the robot. We aimed to recieve the changing position values of the mobile beacons, also known as the hedgehogs.       
+     
+![marvelmind doc](https://user-images.githubusercontent.com/47263802/57480106-76fb7d80-7264-11e9-943b-06f0f88d5bfd.JPG)
+
+The MarvelMind Indoor GPS system already as a visualization software called Dashboard that allowed us to interface and interact with the beacons prior to starting the project.  
+     
   ![Capture](https://user-images.githubusercontent.com/47263802/57472770-ec128700-7253-11e9-9f5c-9e106f222c5c.JPG)
+  
+  Dashboard was used to connect the modem to a remote laptop while the two mobile hedgehog beacons were attached to a ROS system.
    
    3. Generate angle calculations for robot pose  
    
-   ![tan pos](https://user-images.githubusercontent.com/47263802/57479872-110ef600-7264-11e9-937f-730d7629f315.JPG)
+   The pose and position calculator were completed by visuzalizing the tangent relationship of a circle and then applying that to the change in position of the two beacons relative to each other.
+   
+   ![tan pos](https://user-images.githubusercontent.com/47263802/57479872-110ef600-7264-11e9-937f-730d7629f315.JPG)  
    
    Source: https://www.mathopenref.com/triggraphtan.html  
+   
+   The tan2 function in Python was used to prevent errors in the retrieved position values that were initially recieved when using the tan function during testing.  
    
 ___
 ## Project Results
