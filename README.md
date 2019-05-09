@@ -33,6 +33,10 @@ ___
    
    3. Generate angle calculations for robot pose
    
+   ![tan](https://user-images.githubusercontent.com/47263802/57461204-35ef7300-723c-11e9-9fc0-ceda7af24178.png)
+   
+   https://www.mathopenref.com/triggraphtan.html  
+   
 ___
 # Project Results
 
