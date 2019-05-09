@@ -18,7 +18,7 @@ Get the marvelmind beacons to communicate with the router. Use data from beacons
 
 **Project Uniqueness:** Very little prior research on holonomic drive controls. 
 
-![roboto](https://user-images.githubusercontent.com/47263802/57458995-f58df600-7237-11e9-9c7c-b2e9efba145b.JPG) 
+![roboto](https://user-images.githubusercontent.com/47263802/57477728-ee2e1300-725e-11e9-8a22-b00d0871cc57.JPG) 
 
 ___
 
